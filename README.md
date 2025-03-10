@@ -10,7 +10,7 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: Natalia Cantero Salinas
+- :woman: Natalia Cantero Salinas
 - :man: Sergio Manzano Martín
 - :woman: Darlyn Pérez González
 - :man: ÁLvaro Las Heras García
