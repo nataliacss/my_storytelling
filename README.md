@@ -13,7 +13,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :woman: Natalia Cantero Salinas
 - :man: Sergio Manzano Martín
 - :woman: Darlyn Pérez González
-- :man: ÁLvaro Las Heras García
+- :man: Álvaro Las Heras García
 
 Proyecto (código): 
 URL (link) del proyecto en Github: 
