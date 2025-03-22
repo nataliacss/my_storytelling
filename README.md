@@ -16,7 +16,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :man: Álvaro Las Heras García
 
 Proyecto (código): 
-URL (link) del proyecto en Github: 
+URL (link) del proyecto en Github: https://github.com/bysergiio/zekke-rinku 
 
 
 Tipo/Género:  
